@@ -1,0 +1,3 @@
+This files are used for the market data loader.py part that is commented out
+if this commented out part is to be used, this 4 folders should be in the 
+chart_data_files subfolder in trading_Files folder
